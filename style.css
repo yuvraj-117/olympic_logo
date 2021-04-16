@@ -1,0 +1,17 @@
+.image--background{
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+	
+	font-size: 40px;
+    color:blue;
+}
+#myCanvas
+{
+
+	
+	border-style:ridge;
+    background-color: white; 
+}
